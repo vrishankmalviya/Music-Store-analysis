@@ -6,5 +6,6 @@ This project involves a series of SQL queries to analyze a music store database.
 
 
 **Database and Tools**
--PostgreSQL
--SQL client (e.g., pgAdmin, DBeaver)
+
+PostgreSQL
+pgAdmin
