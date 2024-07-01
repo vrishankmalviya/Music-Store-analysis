@@ -10,3 +10,23 @@ This project involves a series of SQL queries to analyze a music store database.
 * PostgreSQL
 
 * pgAdmin4
+
+## Database Schema
+
+The database schema includes the following tables:
+- `Customers`
+- `Invoices`
+- `Invoice_line`
+- `Track`
+- `Albums`
+- `Artist`
+- `Genres`
+- `Employees`
+- `Media_type`
+- `Playlist`
+- `Playlist_track`
+
+
+### Schema Image ###
+
+![Database Schema](F:\Resume project\Music store SQL\Schema)
