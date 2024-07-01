@@ -1,4 +1,4 @@
-# SQL Project: Analyzing Music Store Data with PostgreSQL
+# SQL Project: Analyzing Music Store Data with PostgreSQL#
 
 **Project Overview**
 
@@ -7,14 +7,5 @@ This project involves a series of SQL queries to analyze a music store database.
 
 **Database and Tools**
 
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
+*PostgreSQL
+*pgAdmin4
