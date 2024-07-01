@@ -29,4 +29,4 @@ The database schema includes the following tables:
 
 ### Schema Image ###
 
-![Database Schema](F:\Resume project\Music store SQL\Schema.png)
+![Database Schema](DatabaseSchema.png)
