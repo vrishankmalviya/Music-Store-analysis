@@ -7,6 +7,14 @@ This project involves a series of SQL queries to analyze a music store database.
 
 **Database and Tools**
 
-Markup: *PostgreSql
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 
-        *pgAdmin4
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
