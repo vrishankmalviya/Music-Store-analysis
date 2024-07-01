@@ -1,4 +1,4 @@
-# SQL Project: Analyzing Music Store Data with PostgreSQL#
+# SQL Project: Analyzing Music Store Data with PostgreSQL
 
 **Project Overview**
 
